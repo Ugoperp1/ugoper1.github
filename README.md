@@ -862,7 +862,7 @@
    <!-- footer section end -->
    <!-- copyright section start -->
    <div class="copyright_section">
-      <p class="copyright_text">NkemAnn&copy;2023<a href="https://html.design">
+      <p class="copyright_text">nkemAnn&copy;2023<a href="https://html.design">
             <!-- Free html Templates -->
       </p>
    </div>
