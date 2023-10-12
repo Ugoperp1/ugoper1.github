@@ -736,9 +736,9 @@
                            <p class="client_lorem_text">Our clients tell us that we're like their
                               personal stylists. they appreciate out attention to detail
                               and personalized services. They say, working with us is like having
-                              a friend in th fashion industry, someone who can help them look and feel
-                              their best. We're proud o be their go-to source for all things fashion,
-                              and we're always here to help tem look and feel their best.
+                              a friend in the fashion industry, someone who can help them look and feel
+                              their best. We're proud to be their go-to source for all things fashion,
+                              and we're always here to help them look and feel their best.
                            </p>
                         </div>
                      </div>
@@ -754,9 +754,9 @@
                            <p class="client_lorem_text">Our clients tell us that we're like their
                               personal stylists. they appreciate out attention to detail
                               and personalized services. They say, working with us is like having
-                              a friend in th fashion industry, someone who can help them look and feel
-                              their best. We're proud o be their go-to source for all things fashion,
-                              and we're always here to help tem look and feel their best.</p>
+                              a friend in the fashion industry, someone who can help them look and feel
+                              their best. We're proud to be their go-to source for all things fashion,
+                              and we're always here to help them look and feel their best.</p>
                         </div>
                      </div>
                   </div>
@@ -771,9 +771,9 @@
                            <p class="client_lorem_text">Our clients tell us that we're like their
                               personal stylists. they appreciate out attention to detail
                               and personalized services. They say, working with us is like having
-                              a friend in th fashion industry, someone who can help them look and feel
-                              their best. We're proud o be their go-to source for all things fashion,
-                              and we're always here to help tem look and feel their best.</p>
+                              a friend in the fashion industry, someone who can help them look and feel
+                              their best. We're proud to be their go-to source for all things fashion,
+                              and we're always here to help them look and feel their best.</p>
                         </div>
                      </div>
                   </div>
